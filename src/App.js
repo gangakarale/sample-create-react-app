@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello, Amplify!
+          Hello, test auto deployment of react app
         </p>
         <a
           className="App-link"
