@@ -9,6 +9,9 @@ function App() {
         <p>
           Hello, test auto deployment of react app
         </p>
+        <p>
+          Test
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
