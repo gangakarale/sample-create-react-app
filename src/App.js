@@ -10,7 +10,7 @@ function App() {
           Hello, test auto deployment of react app
         </p>
         <p>
-          Gangaram
+          Gangaram dff
         </p>
         <a
           className="App-link"
